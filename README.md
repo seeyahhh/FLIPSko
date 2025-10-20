@@ -17,4 +17,4 @@
 - 90-second timer for each round  
 - Progressive challenge: Each level increases the number of cards by 4  
 - Star rating system based on your performance  
-- Offline play – no internet required
+- Offline play – no internet required 
